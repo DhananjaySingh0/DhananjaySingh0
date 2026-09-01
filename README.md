@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Dhananjay Kumar Singh 👋
 
-<!--
-**DhananjaySingh0/DhananjaySingh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML & Python Developer building intelligent applications, scalable backends, and production-ready APIs.
 
-Here are some ideas to get you started:
+- 🔭 Currently building AI-powered applications using Python, Machine Learning, and Deep Learning
+- 🌐 Portfolio: [dhananjay-com.onrender.com](https://dhananjay-com.onrender.com)
+- 📫 Reach me: dhananjaysingh90314@gmail.com
+- 💼 LinkedIn: [dhananjaysingh0](https://www.linkedin.com/in/dhananjaysingh0)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Skills
+Python · Machine Learning · Deep Learning · Data Science · API Development
+
+#### 🔗 Connect
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue)](https://dhananjay-com.onrender.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/dhananjaysingh0)
